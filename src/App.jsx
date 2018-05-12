@@ -50,6 +50,7 @@ class App extends React.Component {
       }
     ).then(response => {
       let {messages} = JSON.parse(response.result)
+
       if (R.isNil(messages)) {
 
       } else {
