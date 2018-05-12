@@ -1,0 +1,13 @@
+.divider {
+  height: 10px;
+  width: 100%;
+}
+
+.container {
+  padding: 10px;
+}
+
+.comment {
+  padding: 10px;
+  padding-left: 30px;
+}
